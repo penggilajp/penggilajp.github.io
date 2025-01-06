@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://penggilajp.github.io/sitemap.xml
